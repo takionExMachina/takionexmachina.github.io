@@ -5,7 +5,7 @@ layout: page
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Libros leídos</h2>
+		<h2>Libros Recomendados</h2>
 	</header>
 	<div class="posts">
 		<article>
@@ -39,5 +39,16 @@ layout: page
 		<img src="assets/img/deepweb.png" alt="Deep Web: TOR, FreeNET & I2P - Privacidad y Anonimato"/>
 		<p>Disponible en el siguiente <a href="http://0xword.com/es/libros/75-deep-web-tor-freenet-i2p-privacidad-y-anonimato.html#idTab5">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>The hacker playbook 2: Practical guide to penetration testing.</h3>
+		<img src="assets/img/playbook2.jpg" alt="The hacker playbook 2: Practical guide to penetration testing (cover)"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566">enlace</a>.</p>
+		</article>
+		<article>
+		<h3>Computer Security: Principles and Practice (3rd Edition).</h3>
+		<img src="assets/img/csec3.jpg" alt="The hacker playbook 2: Practical guide to penetration testing (cover)"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566">enlace</a>.</p>
+		</article>
+
 	</div>
 </section>
