@@ -5,9 +5,7 @@ layout: page
 <!-- Section -->
 
 <section>
-  <header class="major">
-  <h2>Post más recientes</h2>
-</header>
+
   <div class="posts ">
   <article>
   <p> CTF Walkthroughs </p>

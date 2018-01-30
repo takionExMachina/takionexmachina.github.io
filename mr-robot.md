@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+<br>
 Bueno para comenzar bienvenidos a mi blog espero subir walkthroughs con soluciones a máquinas vulnerables,
 obtenidas desde vulnhub.com, y luego subir máquinas propias.
 Primero vamos a resolver una máquina virtual cuyo nombre es tentador para los fanáticos de esta serie de televisión,

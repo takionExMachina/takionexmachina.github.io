@@ -41,13 +41,23 @@ layout: page
 		</article>
 		<article>
 		<h3>The hacker playbook 2: Practical guide to penetration testing.</h3>
-		<img src="assets/img/playbook2.jpg" alt="The hacker playbook 2: Practical guide to penetration testing (cover)"/>
+		<img src="assets/img/playbook2.jpg" alt="The hacker playbook 2: Practical guide to penetration testing"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566">enlace</a>.</p>
 		</article>
 		<article>
 		<h3>Computer Security: Principles and Practice (3rd Edition).</h3>
-		<img src="assets/img/csec3.jpg" alt="The hacker playbook 2: Practical guide to penetration testing (cover)"/>
+		<img src="assets/img/csec3.jpg" alt="The hacker playbook 2: Practical guide to penetration testing"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566">enlace</a>.</p>
+		</article>
+		<article>
+		<h3>Building a Comprehensive IT Security Program: Practical Guidelines and Best Practices</h3>
+		<img src="assets/img/bcisp.jpg" alt="Building a Comprehensive IT Security Program: Practical Guidelines and Best Practices"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Building-Comprehensive-Security-Program-Guidelines/dp/1484220528">enlace</a>.</p>
+		</article>
+		<article>
+		<h3>From Hacking to Report Writing: An Introduction to Security and Penetration Testing</h3>
+		<img src="assets/img/fhtrw.jpg" alt="From Hacking to Report Writing: An Introduction to Security and Penetration Testing"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Hacking-Report-Writing-Introduction-Penetration/dp/1484222822">enlace</a>.</p>
 		</article>
 
 	</div>
