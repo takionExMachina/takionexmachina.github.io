@@ -59,6 +59,11 @@ layout: page
 		<img src="assets/img/fhtrw.jpg" alt="From Hacking to Report Writing: An Introduction to Security and Penetration Testing"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Hacking-Report-Writing-Introduction-Penetration/dp/1484222822">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>The Web Application Hackers Handbook</h3>
+		<img src="assets/img/wahh.jpg" alt="The Web Application Hackers Handbook"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470">enlace</a>.</p>
+		</article>
 
 	</div>
 </section>
