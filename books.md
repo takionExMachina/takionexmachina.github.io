@@ -64,6 +64,10 @@ layout: page
 		<img src="assets/img/wahh.jpg" alt="The Web Application Hackers Handbook"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470">enlace</a>.</p>
 		</article>
-
+		<article>
+		<h3>Malware en Android: Discovering, Reversing and Forensics</h3>
+		<img src="assets/img/madrf.png" alt="Malware en Android: Discovering, Reversing and Forensics"/>
+		<p>Disponible en el siguiente <a href="http://0xword.com/es/libros/76-malware-en-android-discovering-reversing-and-forensics.html">enlace</a>.</p>
+		</article>
 	</div>
 </section>
