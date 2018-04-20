@@ -17,7 +17,7 @@ layout: page
 </article>
 <article>
   <p> Captura de malware </p>
-  <a href="{{ 'captura_malware.html' | absolute_url }}" class="image">
+  <a href="{{ 'captura-malware.html' | absolute_url }}" class="image">
   <img src="assets/img/malware.jpg" alt="captura malware">
   </a>
   <h3>Como crear una red de Honeypots</h3>
