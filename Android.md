@@ -13,7 +13,7 @@ layout: default
 				<img src="assets/img/AppsGas.jpg" alt="Apps gas licuado Chile" />
 			</a>
 			<h3>Análisis aplicaciones compra de gas licuado en Chile</h3>
-			<p>¿Cómo afectan la privacidad y seguridad de sus usuarios?</p>
+			<p>¿Cómo afectan la privacidad y seguridad de sus usuarios? (primera parte)</p>
 		</article>
 	</div>
 </section>

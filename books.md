@@ -69,5 +69,10 @@ layout: page
 		<img src="assets/img/madrf.png" alt="Malware en Android: Discovering, Reversing and Forensics"/>
 		<p>Disponible en el siguiente <a href="http://0xword.com/es/libros/76-malware-en-android-discovering-reversing-and-forensics.html">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Professional Assembly Language</h3>
+		<img src="assets/img/pal.jpg" alt="Professional Assembly Language"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010">enlace</a>.</p>
+		</article>
 	</div>
 </section>

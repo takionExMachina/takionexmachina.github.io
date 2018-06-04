@@ -23,6 +23,13 @@ layout: page
   <h3>Como crear una red de Honeypots</h3>
   <p>para captura de malware </p>
 </article>
+<article>
+  <a href="{{ 'AppsGas.html' | absolute_url }}" class="image">
+     <img src="assets/img/AppsGas.jpg" alt="Apps gas licuado Chile" />
+  </a>
+  <h3>Análisis aplicaciones compra de gas licuado en Chile</h3>
+  <p>¿Cómo afectan la privacidad y seguridad de sus usuarios? (primera parte)</p>
+</article>
 
 </div>
 </section>

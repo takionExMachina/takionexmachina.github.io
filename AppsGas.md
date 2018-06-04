@@ -3,7 +3,7 @@ layout: page
 ---
 
 <br>
-## ¿Qué pasa con las aplicaciones de compra de gas en Chile si los analizamos desde el punto de vista de la privacidad?
+## ¿Qué pasa con las aplicaciones de compra de gas en Chile si las analizamos desde el punto de vista de la privacidad?
 
 Esta vez ampliaré los tópicos analizados en el blog, para incorporar un poco de análisis a 
 aplicaciones del Sistema Operativo Android, a modo de introducción les cuento que en mi país,
@@ -768,3 +768,5 @@ manipulación por parte de terceros.
 la información de los usuarios.
 
 Si me he olvidado poner algo, ha sido expuesto en los apartados anteriores. Las siguientes entregas se enfocarán al mismo tipo de análisis en otras aplicaciones (Gasco, Lipigas), espero hayan disfrutado tanto como yo de este análisis, los dejo invitados a la siguiente entrega. Además le propongo al lector, si desea ver analizado alguna aplicación Android, la envíe al correo. Gracias y hasta la próxima.
+
+Nota: Todos los derechos asociados de las aplicaciones mencionadas son de los respectivos dueños.
