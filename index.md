@@ -24,6 +24,7 @@ layout: page
   <p>para captura de malware </p>
 </article>
 <article>
+   <p> Android </p>
   <a href="{{ 'AppsGas.html' | absolute_url }}" class="image">
      <img src="assets/img/AppsGas.jpg" alt="Apps gas licuado Chile" />
   </a>

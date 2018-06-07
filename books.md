@@ -74,5 +74,10 @@ layout: page
 		<img src="assets/img/pal.jpg" alt="Professional Assembly Language"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Ethical Hacking: Teoría y práctica para la realización de un Pentesting.</h3>
+		<img src="assets/img/ehtp.jpg" alt="Ethical Hacking: Teoría y práctica para la realización de un Pentesting."/>
+		<p>Disponible en el siguiente <a href="https://0xword.com/es/libros/65-ethical-hacking-teoria-y-practica-para-la-realizacion-de-un-pentesting.html">enlace</a>.</p>
+		</article>
 	</div>
 </section>
