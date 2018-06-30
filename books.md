@@ -79,5 +79,10 @@ layout: page
 		<img src="assets/img/ehtp.jpg" alt="Ethical Hacking: Teoría y práctica para la realización de un Pentesting."/>
 		<p>Disponible en el siguiente <a href="https://0xword.com/es/libros/65-ethical-hacking-teoria-y-practica-para-la-realizacion-de-un-pentesting.html">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Black Hat Python: Python Programming for Hackers and Pentesters</h3>
+		<img src="assets/img/bhp.png" alt="Black Hat Python: Python Programming for Hackers and Pentesters"/>
+		<p>Disponible en el siguiente <a href="https://nostarch.com/blackhatpython">enlace</a>.</p>
+		</article>
 	</div>
 </section>
