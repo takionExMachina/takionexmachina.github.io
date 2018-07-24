@@ -84,5 +84,10 @@ layout: page
 		<img src="assets/img/bhp.png" alt="Black Hat Python: Python Programming for Hackers and Pentesters"/>
 		<p>Disponible en el siguiente <a href="https://nostarch.com/blackhatpython">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Ataques en redes de datos ipv4 e ipv6</h3>
+		<img src="assets/img/ard46.jpg" alt="ataques en redes de datos ipv4 e ipv6"/>
+		<p>Disponible en el siguiente <a href="https://0xword.com/es/libros/26-libro-ataques-redes-datos-ipv4-ipv6.html">enlace</a>.</p>
+		</article>
 	</div>
 </section>
