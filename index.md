@@ -6,8 +6,8 @@ layout: page
 
 <section>
 
-  <div class="posts ">
-  <article>
+<div class="posts ">
+<article>
   <p> CTF Walkthroughs </p>
   <a href="{{ 'mr-robot.html' | absolute_url }}" class="image">
   <img src="assets/img/mrRobot0.png" alt="captura máquina Mr.Robot">
@@ -31,6 +31,11 @@ layout: page
   <h3>Análisis aplicaciones compra de gas licuado en Chile</h3>
   <p>¿Cómo afectan la privacidad y seguridad de sus usuarios? (primera parte)</p>
 </article>
-
+<article>
+      <a href="{{ 'icscl.html' | absolute_url }}" class="image"><img src="assets/img/ics.jpg" 
+        alt="ics" /></a>
+      <h3>Estado sistemas de control industrial en Chile</h3>
+      <p>¿Hay conciencia de los riegos asociados por una mala configuración?</p>
+</article>
 </div>
 </section>
