@@ -89,5 +89,10 @@ layout: page
 		<img src="assets/img/ard46.jpg" alt="ataques en redes de datos ipv4 e ipv6"/>
 		<p>Disponible en el siguiente <a href="https://0xword.com/es/libros/26-libro-ataques-redes-datos-ipv4-ipv6.html">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Industrial Cybersecurity: Efficiently secure critical infrastructure systems</h3>
+		<img src="assets/img/icescis.jpg" alt="Industrial Cybersecurity: Efficiently secure critical infrastructure systems"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/industrial-cybersecurity">enlace</a>.</p>
+		</article>
 	</div>
 </section>

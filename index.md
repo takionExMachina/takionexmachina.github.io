@@ -32,6 +32,7 @@ layout: page
   <p>¿Cómo afectan la privacidad y seguridad de sus usuarios? (primera parte)</p>
 </article>
 <article>
+  <p>Sistemas de control industrial</p>
       <a href="{{ 'icscl.html' | absolute_url }}" class="image"><img src="assets/img/ics.jpg" 
         alt="ics" /></a>
       <h3>Estado sistemas de control industrial en Chile</h3>
