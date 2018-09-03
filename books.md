@@ -80,6 +80,11 @@ layout: page
 		<p>Disponible en el siguiente <a href="https://0xword.com/es/libros/65-ethical-hacking-teoria-y-practica-para-la-realizacion-de-un-pentesting.html">enlace</a>.</p>
 		</article>
 		<article>
+		<h3>Python for offensive pentest</h3>
+		<img src="assets/img/pop.png" alt="Pyton for offensive pentest" />
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/python-offensive-pentest">enlace</a>.</p>
+		</article>
+		<article>
 		<h3>Black Hat Python: Python Programming for Hackers and Pentesters</h3>
 		<img src="assets/img/bhp.png" alt="Black Hat Python: Python Programming for Hackers and Pentesters"/>
 		<p>Disponible en el siguiente <a href="https://nostarch.com/blackhatpython">enlace</a>.</p>
