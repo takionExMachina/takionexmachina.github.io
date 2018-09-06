@@ -75,6 +75,11 @@ layout: page
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010">enlace</a>.</p>
 		</article>
 		<article>
+		<h3>Penetration testing with shellcode</h3>
+		<img src="assets/img/pws.jpg" alt="Penetration testing with shellcode" />
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/penetration-testing-shellcode">enlace</a>.</p>
+		</article>
+		<article>
 		<h3>Ethical Hacking: Teoría y práctica para la realización de un Pentesting.</h3>
 		<img src="assets/img/ehtp.jpg" alt="Ethical Hacking: Teoría y práctica para la realización de un Pentesting."/>
 		<p>Disponible en el siguiente <a href="https://0xword.com/es/libros/65-ethical-hacking-teoria-y-practica-para-la-realizacion-de-un-pentesting.html">enlace</a>.</p>
