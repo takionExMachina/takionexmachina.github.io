@@ -70,6 +70,11 @@ layout: page
 		<p>Disponible en el siguiente <a href="http://0xword.com/es/libros/76-malware-en-android-discovering-reversing-and-forensics.html">enlace</a>.</p>
 		</article>
 		<article>
+		<h3>Mobile Application Hackers Handbook</h3>
+		<img src="assets/img/mahh.jpg" alt="Mobile Application Hackers Handbook"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500">enlace</a>.</p>
+		</article>
+		<article>
 		<h3>Professional Assembly Language</h3>
 		<img src="assets/img/pal.jpg" alt="Professional Assembly Language"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Professional-Assembly-Language-Richard-Blum/dp/0764579010">enlace</a>.</p>
@@ -93,6 +98,11 @@ layout: page
 		<h3>Black Hat Python: Python Programming for Hackers and Pentesters</h3>
 		<img src="assets/img/bhp.png" alt="Black Hat Python: Python Programming for Hackers and Pentesters"/>
 		<p>Disponible en el siguiente <a href="https://nostarch.com/blackhatpython">enlace</a>.</p>
+		</article>
+		<article>
+		<h3>Mastering Metasploit</h3>
+		<img src="assets/img/mm.jpg" alt="Mastering Metasploit"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/mastering-metasploit-second-edition">enlace</a>.</p>
 		</article>
 		<article>
 		<h3>Ataques en redes de datos ipv4 e ipv6</h3>
