@@ -114,5 +114,10 @@ layout: page
 		<img src="assets/img/icescis.jpg" alt="Industrial Cybersecurity: Efficiently secure critical infrastructure systems"/>
 		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/industrial-cybersecurity">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Mastering Modern Web Penetration Testing</h3>
+		<img src="assets/img/mmwpt.png" alt="Mastering Modern Web Penetration Testing"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/mastering-modern-web-penetration-testing">enlace</a>.</p>
+		</article>
 	</div>
 </section>
