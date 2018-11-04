@@ -119,5 +119,10 @@ layout: page
 		<img src="assets/img/mmwpt.png" alt="Mastering Modern Web Penetration Testing"/>
 		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/mastering-modern-web-penetration-testing">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Burp Suite Cookbook:Practical recipes to help you master web penetration testing with Burp Suite</h3>
+		<img src="assets/img/bsc.png" alt="Burp Suite Cookbook:Practical recipes to help you master web penetration testing with Burp Suite"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/burp-suite-cookbook">enlace</a>.</p>
+		</article>
 	</div>
 </section>
