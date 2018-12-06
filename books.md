@@ -124,5 +124,10 @@ layout: page
 		<img src="assets/img/bsc.png" alt="Burp Suite Cookbook:Practical recipes to help you master web penetration testing with Burp Suite"/>
 		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/burp-suite-cookbook">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Secure your node.js Web application, keep attackers out and users happy</h3>
+		<img src="assets/img/synwb.jpg" alt="Secure your node.js Web application, keep attackers out and users happy"/>
+		<p>Disponible en el siguiente <a href="https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856">enlace</a>.</p>
+		</article>
 	</div>
 </section>
