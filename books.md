@@ -129,5 +129,15 @@ layout: page
 		<img src="assets/img/synwb.jpg" alt="Secure your node.js Web application, keep attackers out and users happy"/>
 		<p>Disponible en el siguiente <a href="https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Hands-On Bug Hunting for Penetration Testers 1st Edition</h3>
+		<img src="assets/img/hobhpt.jpg" alt="Hands-On Bug Hunting for Penetration Testers 1st Edition"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/hands-bug-hunting-penetration-testers">enlace</a>.</p>
+		</article>
+		<article>
+		<h3>Web Hacking 101 How to Make Money Hacking Ethically 1st Edition</h3>
+		<img src="assets/img/wh101hmmhe.jpeg" alt="Web Hacking 101 How to Make Money Hacking Ethically 1st Edition"/>
+		<p>Disponible en el siguiente <a href="https://leanpub.com/web-hacking-101">enlace</a>.</p>
+		</article>
 	</div>
 </section>
