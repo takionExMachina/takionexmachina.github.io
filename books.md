@@ -138,6 +138,11 @@ layout: page
 		<h3>Web Hacking 101 How to Make Money Hacking Ethically 1st Edition</h3>
 		<img src="assets/img/wh101hmmhe.jpeg" alt="Web Hacking 101 How to Make Money Hacking Ethically 1st Edition"/>
 		<p>Disponible en el siguiente <a href="https://leanpub.com/web-hacking-101">enlace</a>.</p>
+		</article>		
+		<article>
+		<h3>Mastering Machine Learning for Penetration Testing</h3>
+		<img src="assets/img/mmlpt.png" alt="Mastering Machine Learning for Penetration Testing"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing">enlace</a>.</p>
 		</article>
 	</div>
 </section>
