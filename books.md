@@ -144,5 +144,10 @@ layout: page
 		<img src="assets/img/mmlpt.png" alt="Mastering Machine Learning for Penetration Testing"/>
 		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing">enlace</a>.</p>
 		</article>
+		<article>
+		<h3>Hands-on cybersecurity for finance</h3>
+		<img src="assets/img/hocf.png" alt="A comprehensive guide that will give you hands-on experience to study and overcome financial cyber threats"/>
+		<p>Disponible en el siguiente <a href="https://www.packtpub.com/networking-and-servers/hands-cybersecurity-finance">enlace</a>.</p>
+		</article>
 	</div>
 </section>
