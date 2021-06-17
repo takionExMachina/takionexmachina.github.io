@@ -247,8 +247,8 @@ siguientes:
 
 Considerando la funcionalidad de la aplicación, me parece excesivo el uso de estos permisos,
 grabar audio y video con que finalidad. Si bien podría estar declarado el permiso, y no ser usado
-en ninguna parte del código, el sólo hecho de tenerlo definido en el AndroidManifest, podría permitir
-la invación a la privacidad del usuario, sin contar con dejar espacio a ataques por parte de terceros.
+en ninguna parte del código, el sólo hecho de tenerlo definido en el AndroidManifest, podría afectar la privacidad del usuario, 
+sin contar con dejar espacio a ataques por parte de terceros.
 
 * **android.permission.READ_CONTACTS**
 * **android.permission.WRITE_CONTACTS**
